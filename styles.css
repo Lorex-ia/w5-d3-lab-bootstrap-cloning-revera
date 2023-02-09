@@ -1,0 +1,38 @@
+
+.redpart{
+    background:#ed564b;
+    height: 300px;
+
+}
+
+.ptext{
+    color:rgb(184, 184, 184);
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.secondsect{
+    margin-top: 60px;
+}
+
+.ftr{
+    margin-top:50px;
+}
+
+.greytxt{
+    color: rgb(196, 186, 186);
+    text-decoration: none;
+}
+
+.circle{
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 30px;
+    margin-left: 302px;
+    margin-right: 302px;
+    padding: 3px;
+}
+
+.alexia{
+    /* background-color: blue; */
+    height:100%;
+}
